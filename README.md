@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/theodaguier" target="blank"><img src="https://img.shields.io/twitter/follow/theodaguier?logo=twitter&style=for-the-badge" alt="theodaguier" /></a> </p>
 
-- 🌱 I’m currently learnin **React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **theo.daguier@icloud.com**
 
